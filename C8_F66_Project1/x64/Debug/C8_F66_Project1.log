@@ -1,0 +1,15 @@
+﻿  C8_F66_Project1.cpp
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(130,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(132,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(134,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(136,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(138,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(140,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(142,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(149,24): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(160,10): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(173,21): warning C4244: '-=': conversion from 'double' to 'short', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(229,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(643,1): warning C4715: 'returnClient': not all control paths return a value
+E:\This PC\Documents\GitHub Projects\C8_F66_Project1\C8_F66_Project1.cpp(653,1): warning C4715: 'returnUser': not all control paths return a value
+  C8_F66_Project1.vcxproj -> E:\This PC\Documents\GitHub Projects\C8_F66_Project1\x64\Debug\C8_F66_Project1.exe
